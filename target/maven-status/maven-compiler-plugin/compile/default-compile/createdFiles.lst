@@ -1,2 +1,8 @@
+br/com/danieljunior/springbootsample/configuration/SecurityConfiguration.class
+br/com/danieljunior/springbootsample/repositories/ProductRepository.class
+br/com/danieljunior/springbootsample/configuration/WebConfiguration.class
+br/com/danieljunior/springbootsample/domain/Product.class
 br/com/danieljunior/springbootsample/SpringbootsampleApplication.class
 br/com/danieljunior/springbootsample/controllers/IndexController.class
+br/com/danieljunior/springbootsample/configuration/RepositoryConfiguration.class
+br/com/danieljunior/springbootsample/loaders/ProductLoader.class

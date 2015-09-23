@@ -1,2 +1,8 @@
+/home/danieljr/workspace/java/springbootsample/src/main/java/br/com/danieljunior/springbootsample/controllers/IndexController.java
+/home/danieljr/workspace/java/springbootsample/src/main/java/br/com/danieljunior/springbootsample/configuration/WebConfiguration.java
 /home/danieljr/workspace/java/springbootsample/src/main/java/br/com/danieljunior/springbootsample/SpringbootsampleApplication.java
-/home/danieljr/workspace/java/springbootsample/src/main/java/br/com/danieljunior/springbootsample/IndexController.java
+/home/danieljr/workspace/java/springbootsample/src/main/java/br/com/danieljunior/springbootsample/configuration/SecurityConfiguration.java
+/home/danieljr/workspace/java/springbootsample/src/main/java/br/com/danieljunior/springbootsample/domain/Product.java
+/home/danieljr/workspace/java/springbootsample/src/main/java/br/com/danieljunior/springbootsample/loaders/ProductLoader.java
+/home/danieljr/workspace/java/springbootsample/src/main/java/br/com/danieljunior/springbootsample/repositories/ProductRepository.java
+/home/danieljr/workspace/java/springbootsample/src/main/java/br/com/danieljunior/springbootsample/configuration/RepositoryConfiguration.java
